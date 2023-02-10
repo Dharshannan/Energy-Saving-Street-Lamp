@@ -32,7 +32,7 @@ Our hardware has been set up as in Lab 4:
 ## Demonstration video
 Our video demonstrates operation of the street light during daylight savings change of clock (note that the clocks changed on 31 October 2021 (Sunday) at 2am - it turned back 1 hour to 1am):
 
-!!!iNCLUDE YOUTUBE LINK HERE!!!
+https://www.youtube.com/watch?v=r1nD_SjOgA4
 
 
 ## Program structure
