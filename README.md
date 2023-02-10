@@ -25,7 +25,7 @@ Our hardware has been set up as in Lab 4:
 - The **LED on pin RD7** is used as the street light (it switches on at dusk and off at dawn (it is off from 1am-5am too to save energy));
 - The **LCD screen** is used as the date and time indicator in all modes (it displays the date and time in decimal).
 
-!!!!!INCLUDE A PICTURE HERE!!!! 
+![Street Lamp](gifs/Mini_Project.jpg) 
 
 
 
