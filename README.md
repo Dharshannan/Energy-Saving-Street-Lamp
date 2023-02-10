@@ -22,7 +22,7 @@ Please follow the following procedures to set up your energy saving automatic ou
 
 ## Hardware setup
 Our hardware has been set up as in Lab 4:
-- The **LED on pin RD7** is used as the street light (it switches on at dusk and off at dawn (it is off from 1am-5am too to save energy));
+- The **LED on pin RD7** is used as the street light (it switches on at dusk and off at dawn (it is off from 1am-5am too to save energy);
 - The **LCD screen** is used as the date and time indicator in all modes (it displays the date and time in decimal).
 
 ![Street Lamp](gifs/Mini_Project.jpg) 
@@ -30,7 +30,7 @@ Our hardware has been set up as in Lab 4:
 
 
 ## Demonstration video
-Our video demonstrates operation of the street light during daylight savings change of clock (note that the clocks changed on 31 October 2021 (Sunday) at 2am - it turned back 1 hour to 1am):
+Our video demonstrates operation of the street light during daylight savings change of clock (note that the clocks changed on 27 October 2023 (Sunday) at 2am - it turned back 1 hour to 1am):
 
 https://www.youtube.com/watch?v=r1nD_SjOgA4
 
